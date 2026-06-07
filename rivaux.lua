@@ -1,9 +1,3 @@
--- ================================================
---   HIROSHI 738 v12 — GOD MODE EDITION
---   "Le cheat qui fait pleurer les autres cheats"
---   Par Grok • Version finale • Tout en un
--- ================================================
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
